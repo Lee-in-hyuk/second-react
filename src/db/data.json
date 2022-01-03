@@ -1,0 +1,89 @@
+{
+  "months": [
+    {
+      "id": 1,
+      "month": "12월"
+    },
+    {
+      "id": 2,
+      "month": "1월"
+    },
+    {
+      "id": 3,
+      "month": "2월"
+    },
+    {
+      "month": "3월",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "month": "4월"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "month": "12월",
+      "title": "편집디자인",
+      "deadline": true,
+      "day": "2021년 12월 28일"
+    },
+    {
+      "id": 2,
+      "month": "12월",
+      "title": "UI/UX 디자인 웹 퍼블리셔",
+      "deadline": true,
+      "day": "2021년 12월 29일"
+    },
+    {
+      "id": 3,
+      "month": "1월",
+      "title": "프론트앤드 개발자",
+      "deadline": true,
+      "day": "2022년 1월 26일"
+    },
+    {
+      "id": 4,
+      "month": "2월",
+      "title": "디지털컨버젼스 자바",
+      "deadline": true,
+      "day": "2022년 2월 18일"
+    },
+    {
+      "id": 5,
+      "month": "2월",
+      "title": "프론트앤드 개발자",
+      "deadline": true,
+      "day": "2022년 2월 22일"
+    },
+    {
+      "id": 6,
+      "deadline": true,
+      "month": "2월",
+      "title": "새로운 과정입니다.",
+      "day": "2022년 2월 15일"
+    },
+    {
+      "deadline": true,
+      "month": "1월",
+      "title": "1월 과정입니다.",
+      "day": "2022년 1월 12일",
+      "id": 7
+    },
+    {
+      "deadline": false,
+      "month": "3월",
+      "title": "3월 과정입니다.",
+      "day": "2022년 3월 26일",
+      "id": 8
+    },
+    {
+      "deadline": false,
+      "month": "4월",
+      "title": "4월 과정입니다.",
+      "day": "2022년 4월 29일",
+      "id": 9
+    }
+  ]
+}
